@@ -110,3 +110,6 @@
 	<gap:splash src="res/splash/android/hdpi.png" gap:platform="android" gap:density="hdpi" /> <!-- 480x800 : 480x640 -->
 	<gap:splash src="res/splash/android/xhdpi.png" gap:platform="android" gap:density="xhdpi" /> <!-- 720x1280 : 720x960 -->
 
+	
+	
+	</widget>
